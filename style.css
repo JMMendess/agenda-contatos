@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    background-color: black;
+    color: darkcyan;
+    text-align: center;
+}
+ul{
+    display: inline-flex;
+    list-style: none;
+}
+li{
+    padding: 5px;
+}
+
+button {
+    background-color: darkturquoise;
+    
+}
